@@ -1,0 +1,21 @@
+body
+{ 
+    background-color: #45214A;
+    color: #5D8A66;
+    font-size: 1.2em;
+}
+
+
+button 
+{
+    margin: 1em;
+    background-color: #21445B ;
+    border-color: #21445B;
+}
+
+.datapair
+{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
